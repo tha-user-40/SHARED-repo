@@ -1,4 +1,6 @@
-C - Zápis od u1
+
 C - Zápis od u2
 
 U1 - new
+
+Zapsáno navíc
